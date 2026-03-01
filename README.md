@@ -29,7 +29,6 @@ Day on 1 January 2025 : Wednesday
 - Basic arithmetic and control structures (`switch`, `if`, etc.)
 
 ## 🚀 Getting Started
-
 1. Clone the repository or copy the code.
 2. Compile and run using any Java IDE or terminal:
    ```bash

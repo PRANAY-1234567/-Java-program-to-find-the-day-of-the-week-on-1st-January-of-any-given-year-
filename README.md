@@ -1,5 +1,4 @@
 # 🗓️ January 1st Day Calculator in Java
-
 This simple Java program calculates the **day of the week** for **1st January** of any given year using basic math and leap year logic.
 
 ## 💡 How It Works

@@ -23,6 +23,7 @@ Output:
 Day on 1 January 2025 : Wednesday
 
 ## 🛠️ Technologies Used
+
 - Java
 - Scanner for input
 - Basic arithmetic and control structures (`switch`, `if`, etc.)
